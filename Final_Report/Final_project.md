@@ -1,26 +1,58 @@
 # Final Project Report
 
+## Project Title
+Design and Simulation of a Virtual Enterprise Network Using Cisco Packet Tracer and Wireshark
+
 ## Introduction
 
-This project demonstrates the design and simulation of a virtual enterprise network using Cisco Packet Tracer and Wireshark.
+This project was completed as part of the Introduction to Computer Networks course. The objective was to design, configure, and test a virtual enterprise network using Cisco Packet Tracer and analyze network traffic with Wireshark.
+
+## Project Objectives
+
+- Design a virtual enterprise network topology
+- Configure routers, switches, and end devices
+- Implement DHCP for automatic IP address assignment
+- Configure DNS for hostname resolution
+- Verify network connectivity through testing
+- Capture and analyze network traffic using Wireshark
 
 ## Network Design
 
-The network includes routers, switches, servers, and client devices.
+The network consists of:
 
-## Configuration
+- One Cisco Router
+- One Cisco Switch
+- Multiple Client PCs
+- One DNS Server
+- One Server
 
-Network services implemented include:
+The network uses the **192.168.1.0/24** subnet.
 
+## Network Services Implemented
+
+- IP Addressing
 - DHCP
 - DNS
-- IP addressing
-- Routing
+- LAN Communication
+- Network Testing
+- Packet Analysis with Wireshark
 
-## Testing
+## Testing and Verification
 
-Connectivity was verified using ping tests, DHCP verification, and DNS testing.
+The network was tested using:
+
+- IP configuration verification
+- Ping connectivity tests
+- DHCP address assignment verification
+- DNS testing
+- Wireshark packet capture analysis
+
+The testing confirmed that devices could communicate and that the configured network services operated as expected.
+
+## Challenges
+
+Some configuration issues were encountered during the project, including DHCP and DNS troubleshooting. These issues were resolved by reviewing device configurations, verifying IP addressing, and testing connectivity.
 
 ## Conclusion
 
-The project successfully demonstrates the design, configuration, and analysis of a virtual enterprise network.
+This project successfully demonstrated the design, configuration, simulation, and testing of a virtual enterprise network. Cisco Packet Tracer was used to build and configure the network, while Wireshark was used to analyze network traffic and verify communication between devices. The project provided practical experience with enterprise networking concepts and troubleshooting techniques.
