@@ -1,1 +1,18 @@
+DHCP Configuration
 
+DHCP Pool Name: LAN
+
+Network:
+192.168.1.0 255.255.255.0
+
+Default Gateway:
+192.168.1.1
+
+DNS Server:
+192.168.1.4
+
+Address Assignment:
+Automatic IP address assignment for client devices.
+
+Status:
+DHCP service configured and operational.
