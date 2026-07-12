@@ -1,1 +1,13 @@
+DNS Configuration
 
+DNS Server IP:
+192.168.1.4
+
+Purpose:
+Provides hostname resolution for devices on the network.
+
+Example Record:
+www.server.local -> 192.168.1.5
+
+Status:
+DNS service configured for the virtual enterprise network.
