@@ -1,1 +1,15 @@
+Router Configuration
 
+Hostname: Router0
+
+Interface: GigabitEthernet0/0
+IP Address: 192.168.1.1
+Subnet Mask: 255.255.255.0
+
+Functions:
+- Default Gateway
+- Routes network traffic
+- Provides DHCP services
+
+Status:
+Configured and operational.
