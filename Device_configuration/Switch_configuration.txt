@@ -1,1 +1,16 @@
+Switch Configuration
 
+Hostname: Switch0
+
+Functions:
+- Connects all devices within the Local Area Network (LAN)
+- Forwards Ethernet frames between connected devices
+
+Ports:
+- Connected to Router0
+- Connected to PC0
+- Connected to PC1
+- Connected to DNS Server
+
+Status:
+Configured and operational.
